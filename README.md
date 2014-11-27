@@ -1,0 +1,4 @@
+IDus
+====
+
+Idea collector
